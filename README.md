@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Halo semua! 
-Perkenalkan nama saya **Julkarnain**.\
+Perkenalkan nama saya **Julkarnain**.
 <!--
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
