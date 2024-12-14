@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Julkarnain
-
 I'm a fresh graduate of informatics engineering at STT Terpadu Nurul Fikri. I have skills in web development especially in Front-End and Back-End. I have a strong desire to learn new things and collaborate in application development.
 
 Follow me at [Linkedin](https://www.linkedin.com/in/julkarnain-lubis/)
