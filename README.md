@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **julubis/julubis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Halo semua! 
-Perkenalkan nama saya **Julkarnain**.
+## I'm Julkarnain
+
+I'm a fresh graduate of informatics engineering at STT Terpadu Nurul Fikri. I have skills in web development especially in Front-End and Back-End. I have a strong desire to learn new things and collaborate in application development.
+
+Follow me at [Linkedin](https://www.linkedin.com/in/julkarnain-lubis/)
 <!--
 Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).\
 Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).\
@@ -25,8 +28,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 -->
  
 <p align="left">
-<a href="https://github.com/julubis">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julubis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julubis&layout=compact&langs_count=16&theme=algolia"/>
-</a>
+ <a href="https://github.com/julubis">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julubis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julubis&layout=compact&langs_count=16&theme=algolia"/>
+ </a>
 </p>
