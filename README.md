@@ -31,9 +31,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </div>
 
 ###
-
+<!--
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+-->
 ###
 
 <div align="left">
